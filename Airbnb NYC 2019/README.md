@@ -1,3 +1,3 @@
 This dashboard presents the Airbnb listings data of New York City from 2011 to 2019. 
 
-![image](https://github.com/user-attachments/assets/1d2de2b0-365b-4899-895b-12a63a8343bc)
+![image](https://github.com/user-attachments/assets/564cfd9c-d584-4673-8b9a-b8784ca19a49)
