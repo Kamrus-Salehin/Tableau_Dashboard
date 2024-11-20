@@ -1,5 +1,5 @@
 This dashboard presents the data of Netflix titles till 2020. 
 
-![image](https://github.com/user-attachments/assets/e3fac724-7148-48fd-ac75-688a20b594b0)
+![image](https://github.com/user-attachments/assets/5115c6a9-a642-46d1-ad38-705b7cb2b839)
 
-![image](https://github.com/user-attachments/assets/78981446-b2b4-4a35-81cf-1fd640203b4f)
+![image](https://github.com/user-attachments/assets/f0360ffe-8c1f-42d5-a41e-a43424c1e316)
